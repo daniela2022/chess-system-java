@@ -1,7 +1,6 @@
 # chess-system-java
 
-Project for learning Java - OOP(Object Oriented Programming) 2021
-
+Project for learning Java - OOP(Object Oriented Programming) 2021 
 - Object
 
 - Class
@@ -13,4 +12,6 @@ Project for learning Java - OOP(Object Oriented Programming) 2021
 - Abstraction
 
 - Encapsulation
+
+Java Course by teacher Nelio Alves
 
